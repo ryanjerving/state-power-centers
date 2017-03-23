@@ -7,8 +7,8 @@ https://ryanjerving.github.io/state-power-centers/
 
 First map
 
- <iframe src="//ryanjerving.github.io/leaflet-map-State-Capitols/" width="90%" height=350></iframe>
+<iframe src="//ryanjerving.github.io/leaflet-map-State-Capitols/" width="90%" height=350></iframe>
 
 First chart
 
- <iframe src="//ryanjerving.github.io/highcharts-stateCenters-scatter-csv" width="90%" height=350></iframe>
+<iframe src="//ryanjerving.github.io/highcharts-stateCenters-scatter-csv" width="90%" height=350></iframe>
