@@ -3,5 +3,5 @@ A look at where the centers of political power in U.S. states sit in relation to
 
 https://ryanjerving.github.io/state-power-centers/
 
-<iframe src= "https://ryanjerving.github.io/leaflet-map-State-Capitols" width="90%" height=350></iframe>
+<iframe src= "https://ryanjerving.github.io/leaflet-map-State-Capitols/" width="90%" height=350></iframe>
 
