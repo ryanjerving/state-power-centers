@@ -16,6 +16,3 @@ I calculated the distance between the political and population center for each s
 There is a pretty interesting clustering here, with a bunch of blue, a bunch of yellow, and then a bunch of red states together. Why it happened that way, and what it portends for AMERICAN DEMOCRACY is another question. The scatter charts I created for different variables didn't suggest any obvious correlation between this population-to-political center distance and overall population, land area, population density -- or even the percent of that state's popular vote in 2016 for Hillary Clinton or Donald Trump! 
 
 But there is a pretty clear East-to-West shift, and without doing much else in the way of looking, my suspicion is it has something to do with when European settlement took hold in each state and (perhaps) the dominant mode of moving goods and people when that happened: in other words, how far you could be dispersed and still be served by foot, horse, water, rail, or highway. Here's the Highchart scatter plot for that distance relative to longitude (what I'm calling "westerliness"):
-
-
-
