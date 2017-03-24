@@ -29,6 +29,6 @@ But there is a pretty clear East-to-West shift (after I took out non-continental
 
 <iframe src= "https://ryanjerving.github.io/highcharts-stateCenters-scatter-csv" width="90%" height="450"></iframe>
 
-I don't think chart tells the story as well as the map above. But it does suggest some further directions.
+I don't think this scatter plot chart tells the story as well as the map above. But it does suggest some further directions.
 
 For example, while my set up assumes a pretty uniform East-to-West pattern of settlement, that wasn't necessarily the case. And the outliers in the scatter plot are interesting. All the way on the lower left, Oregon has a short distance -- and was actually granted statehood before many other "Western" states. Likewise, Florida, on the upper right (it's a long 300 miles between Tallahassee and Polk Co.!) was admitted to the union long after many of the other East Coast states. So I'm probably using geography as a proxy for history, and that might be the next thing to look at.
