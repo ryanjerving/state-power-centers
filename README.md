@@ -19,7 +19,7 @@ So I started by calculating the distance between the political and population ce
 
 <small>View <a href="https://batchgeo.com/map/19dd2ef6abebead8ac56ee7dc6aa337f">Mean Center of Population for U.S. States</a> in a full screen map</small>
 
-I really like this map. There is a pretty interesting clustering here, with a bunch of blue (Atlantic coast), a bunch of green (rust belt), a bunch of yellow (cross-the-Mississippi breadbasket) and then a bunch of red states (way out West) together. 
+I really like this map. Zoom in a bit, and you'll see a a pretty interesting clustering of distances, with a bunch of blue (Atlantic coast), a bunch of green (rust belt), a bunch of yellow (cross-the-Mississippi breadbasket) and then a bunch of red states (way out West) together. 
 
 Why it happened that way, and what it portends for AMERICAN DEMOCRACY is another question. 
 
@@ -29,6 +29,6 @@ But there is a pretty clear East-to-West shift (after I took out non-continental
 
 <iframe src= "https://ryanjerving.github.io/highcharts-stateCenters-scatter-csv" width="90%" height="450"></iframe>
 
-I don't think reveals as much as the map above. But it does suggest some further directions.
+I don't think chart tells the story as well as the map above. But it does suggest some further directions.
 
 For example, while my set up assumes a pretty uniform East-to-West pattern of settlement, that wasn't necessarily the case. And the outliers in the scatter plot are interesting. All the way on the lower left, Oregon has a short distance -- and was actually granted statehood before many other "Western" states. Likewise, Florida, on the upper right (it's a long 300 miles between Tallahassee and Polk Co.!) was admitted to the union long after many of the other East Coast states. So I'm probably using geography as a proxy for history, and that might be the next thing to look at.
