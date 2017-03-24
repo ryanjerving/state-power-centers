@@ -27,7 +27,7 @@ The scatter charts I created for different variables didn't suggest any obvious 
 
 But there is a pretty clear East-to-West shift (after I took out non-continental outliers Alaska, Hawaii, and Puerto Rico, and, with regret, my old home (but the very weird case) of the District of Columbia). And without doing much else in the way of research, my suspicion is that this correlation has something to do with when European settlement took hold in each state and (perhaps) the dominant mode of moving goods and people when that happened: in other words, how far you could be dispersed and still be served by foot, horse, water, rail, or highway. Here's the Highchart scatter plot for that distance relative to longitude (what I'm calling "westerliness"):
 
-<iframe src= "https://ryanjerving.github.io/highcharts-stateCenters-scatter-csv/" width="90%" height="350"></iframe>
+<iframe src= "https://ryanjerving.github.io/highcharts-stateCenters-scatter-csv" width="90%" height="350"></iframe>
 
 I don't think reveals as much as the map above. But it does suggest some further directions.
 
